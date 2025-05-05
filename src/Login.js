@@ -27,6 +27,7 @@ const Login = ({ handleLogin }) => {
                 />
                 <button type="submit">Login</button>
             </form>
+            <p>Use "user" and "password" to Login</p>
         </div>
     );
 };
